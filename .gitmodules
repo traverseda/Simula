@@ -8,7 +8,7 @@
 	branch = simula
 [submodule "submodules/godot"]
 	path = submodules/godot
-	url = https://github.com/SimulaVR/godot
+	url = https://github.com/traverseda/godot-simula.git
 	branch = 3.x-simula
 	shallow = true
 [submodule "submodules/godot-haskell"]
