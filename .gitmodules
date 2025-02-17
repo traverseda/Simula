@@ -6,11 +6,6 @@
 	path = submodules/wlroots
 	url = https://github.com/SimulaVR/wlroots
 	branch = simula
-[submodule "submodules/godot"]
-	path = submodules/godot
-	url = https://github.com/traverseda/godot-simula.git
-	branch = 3.x-simula
-	shallow = true
 [submodule "submodules/godot-haskell"]
 	path = submodules/godot-haskell
 	url = https://github.com/SimulaVR/godot-haskell
@@ -41,3 +36,7 @@
 	path = submodules/monado
 	url = https://github.com/SimulaVR/monado-xv.git
 	branch = xr50
+[submodule "submodules/godot"]
+	path = submodules/godot
+	url = https://github.com/traverseda/godot-simula.git
+	shallow = true
